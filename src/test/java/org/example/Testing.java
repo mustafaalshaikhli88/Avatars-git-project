@@ -8,6 +8,7 @@ public class Testing {
         System.out.println("I CAN NOT WAIT TO GET A JOB");
         System.out.println("I AM TRYING MY BEST HERE");
         System.out.println("I KNEW I CAN DO IT");
+        System.out.println("AVATARS ARE THE REAL DEAL");
 
 
     }
